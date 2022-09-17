@@ -7,7 +7,7 @@
 
     mkdir .secret
     cd .secret/
-    nano sc.ini
+    nano nginx.ini
 
 ![image](https://user-images.githubusercontent.com/40049149/190855050-c7ecf17d-ffaf-4b10-97a8-4c8409d0fbd2.png)
 
