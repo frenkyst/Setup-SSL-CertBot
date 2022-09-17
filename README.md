@@ -2,6 +2,21 @@
 
 ## Setup SSL dengan CertBot
 
+
+![image](https://user-images.githubusercontent.com/40049149/190854835-64990e08-1c7c-4548-ae86-478cd99f39a7.png)
+
+    mkdir .secret
+    cd .secret/
+    nano sc.ini
+
+![image](https://user-images.githubusercontent.com/40049149/190855050-c7ecf17d-ffaf-4b10-97a8-4c8409d0fbd2.png)
+
+![Screenshot from 2022-09-17 18-46-54](https://user-images.githubusercontent.com/40049149/190855108-0caf3670-fab8-40e7-a931-e168e0925639.png)
+    
+    chmod 400 sc.ini
+    
+![image](https://user-images.githubusercontent.com/40049149/190855221-715924f7-e5e4-4506-9c22-2ffba5b7779c.png)
+
 Jalankan perintah berikut
 
     sudo apt-get install snapd
