@@ -11,8 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/40049149/190855050-c7ecf17d-ffaf-4b10-97a8-4c8409d0fbd2.png)
 
-dns_cloudflare_email = "000000@gmail.com"
-dns_cloudflare_api_key = "f4de4535b07667353452b964"
+    dns_cloudflare_email = "000000@gmail.com"
+    dns_cloudflare_api_key = "f4de4535b07667353452b964"
 
 ![Screenshot from 2022-09-17 18-46-54](https://user-images.githubusercontent.com/40049149/190855108-0caf3670-fab8-40e7-a931-e168e0925639.png)
     
